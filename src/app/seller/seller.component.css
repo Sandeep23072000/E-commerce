@@ -1,0 +1,53 @@
+.container {
+    border: 2px solid blue;
+    border-radius: 15px;
+    width: 700px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.btn{
+    color: blue;
+    border-color: blue;
+    border-radius: 12px;
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.btn:hover{
+    color: white;
+    background-color: blue;
+    border-color: none;
+    cursor: pointer;
+}
+
+.heading {
+    color: blue;
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 600px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    outline: none;
+    font-size: 20px;
+}
+
+.input:hover {
+    border-color: blue;
+}
+.para{ 
+    font-size: 22px;
+}
+.anchor{
+    color: blue;
+    font-weight: bold;
+}
+.anchor{ 
+    cursor: pointer;
+}

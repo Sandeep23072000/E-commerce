@@ -1,0 +1,59 @@
+ .header {
+    display: flex;
+}
+ .logo{
+    color: blue;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.input{
+    height: 38px;
+    width: 850px;
+    margin-left: 70px;
+    margin-top: 15px;
+    border-radius: 20px;
+    border-color: blue;
+    text-align: center;
+    font-size: 25px;
+}
+.btn{
+    margin-left: 30px;
+    margin-top: 15px;
+    height: 35px;
+    width: 190px;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn .input:hover{
+    border-color: brown;
+    background-color: bisque;
+
+}
+.list{
+    font-size: 25px;
+    margin-left: 30px;
+    text-decoration: none;
+    list-style: none;
+    color: blue;
+    
+}
+.link:hover{
+    color: brown;
+    cursor: pointer;
+}
+.link{
+    margin-left: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color: blue;
+
+}
+hr{
+    border: 1px solid blue;
+    margin-top: -10px;
+}
